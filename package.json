@@ -1,11 +1,12 @@
 {
   "name": "@trulyacerbic/xstate.actionable-interpreter",
   "version": "1.0.1",
-  "description": "Extension of the default interpreter to allow actions to raise events from functions.",
+  "description": "Extension of the default Xstate interpreter to allow actions to raise events from functions.",
   "main": "actionable-interpreter.js",
   "author": "Anthony Cerbic <kuzzdra@gmail.com>",
   "license": "MIT",
   "private": false,
+  "tags": ["xstate", "interpreter", "finite automata", "state machine"],
   "dependencies": {
     "xstate": "^4.2.2"
   }
