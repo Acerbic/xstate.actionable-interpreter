@@ -1,12 +1,14 @@
 {
   "name": "@trulyacerbic/xstate.actionable-interpreter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extension of the default Xstate interpreter to allow actions to raise events from functions.",
+  "homepage": "https://bitbucket.org/GlebVarenov/xstate.actionable-interpreter",
+  "repository": "bitbucket:GlebVarenov/xstate.actionable-interpreter",
   "main": "actionable-interpreter.js",
   "author": "Anthony Cerbic <kuzzdra@gmail.com>",
-  "license": "MIT",
+  "license": "ISC",
   "private": false,
-  "tags": [
+  "keywords": [
     "xstate",
     "interpreter",
     "finite automata",
