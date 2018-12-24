@@ -1,0 +1,12 @@
+{
+  "name": "@trulyacerbic/xstate.actionable-interpreter",
+  "version": "1.0.1",
+  "description": "Extension of the default interpreter to allow actions to raise events from functions.",
+  "main": "actionable-interpreter.js",
+  "author": "Anthony Cerbic <kuzzdra@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "xstate": "^4.2.2"
+  }
+}
